@@ -1,12 +1,12 @@
 # LegalLife
 This repository hosts the Flask backend and Frontend for the Legal Life project, which aims to assist legal professionals and users in document generation, analysis, and retrieval of legal information.
 
-##Demo
+## Demo
 [Click here to see the live demo](https://aesthetic-sunflower-49a091.netlify.app/)
 
-##Here are some visuals to give you an idea of the project:
+## Here are some visuals to give you an idea of the project:
 
-![UI Design]("C:\Users\ompra\Pictures\Screenshots\Screenshot 2024-11-12 172212.png") <!-- Replace with the actual path -->
+![UI Design]() <!-- Replace with the actual path -->
 *Figure 2: User Interface Design.*
 
 ![Project Overview](assets/overview.png) <!-- Replace with the actual path -->
