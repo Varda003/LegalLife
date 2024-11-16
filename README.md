@@ -1,6 +1,9 @@
 # LegalLife
 This repository hosts the Flask backend and Frontend for the Legal Life project, which aims to assist legal professionals and users in document generation, analysis, and retrieval of legal information.
 
+## Introduction
+Legal Life comprises a Flask-based backend that leverages various functionalities to interact with databases, perform semantic searches, and summarize legal documents.
+
 ## Demo
 [Click here to see the live demo](https://aesthetic-sunflower-49a091.netlify.app/)
 
@@ -21,9 +24,6 @@ This repository hosts the Flask backend and Frontend for the Legal Life project,
 ![Features Demo](assets/image5.png) <!-- Replace with the actual path -->
 *Figure 4: AI chatbot for legal queries.*
 <br><br>
-## Introduction
-Legal Life comprises a Flask-based backend that leverages various functionalities to interact with databases, perform semantic searches, and summarize legal documents.
-
 ## Features
 1. Database Connectivity
 The backend connects to a MySQL database to retrieve legal documents and information. It uses the mysql.connector library to establish connections and execute SQL queries.
