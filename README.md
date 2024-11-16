@@ -16,7 +16,7 @@ This repository hosts the Flask backend and Frontend for the Legal Life project,
 *Figure 3: Features in action.*
 
 ![Features Demo](assets/features-demo.png) <!-- Replace with the actual path -->
-*Figure 3: AI chatbot for legal queries.*
+*Figure 4: AI chatbot for legal queries.*
 
 ## Introduction
 Legal Life comprises a Flask-based backend that leverages various functionalities to interact with databases, perform semantic searches, and summarize legal documents.
