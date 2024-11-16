@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> d9a6e32 (Update README.md)
 # LegalLife
 This repository hosts the Flask backend and Frontend for the Legal Life project, which aims to assist legal professionals and users in document generation, analysis, and retrieval of legal information.
 
@@ -28,25 +24,14 @@ ChromaDB: Used for semantic search functionality.
 Installation
 Cloning the Repository:
 
-<<<<<<< HEAD
 ```
-git clone https://github.com/Varda003/LegalLife.git
+git clone https://github.com/vedank07/LegalLife.git
 ```
 Installing Dependencies:
 
 ```
 pip install -r requirements.txt
 ```
-=======
-bash
-Copy code
-git clone https://github.com/your_username/Legal-Life-Flask-Backend.git
-Installing Dependencies:
-
-bash
-Copy code
-pip install -r requirements.txt
->>>>>>> d9a6e32 (Update README.md)
 Database Setup:
 
 Create a MySQL database named Law.
@@ -81,9 +66,3 @@ Contributions to enhance features or fix issues are welcome. Fork this repositor
 
 ## License
 This project is licensed under the MIT License.
-<<<<<<< HEAD
-=======
-# LegalLife
->>>>>>> b07b08b (Initial commit)
-=======
->>>>>>> d9a6e32 (Update README.md)
