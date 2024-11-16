@@ -6,7 +6,7 @@ This repository hosts the Flask backend and Frontend for the Legal Life project,
 
 ## Here are some visuals to give you an idea of the project:
 
-![UI Design]() <!-- Replace with the actual path -->
+![UI Design](assests/image 1 (1).png) <!-- Replace with the actual path -->
 *Figure 2: User Interface Design.*
 
 ![Project Overview](assets/overview.png) <!-- Replace with the actual path -->
